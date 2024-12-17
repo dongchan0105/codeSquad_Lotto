@@ -1,7 +1,6 @@
 package org.application.service;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
@@ -12,7 +11,6 @@ import org.application.domain.WinningLotto;
 import org.application.domain.model.Lotto;
 import org.application.domain.model.LottoNumber;
 import org.application.util.LottoMaker;
-import org.application.util.Parser;
 
 public class LottoService {
 
